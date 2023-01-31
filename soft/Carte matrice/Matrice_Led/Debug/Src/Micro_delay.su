@@ -1,0 +1,2 @@
+Micro_delay.c:35:6:HAL_Delay_Microseconds	8	static
+Micro_delay.c:54:6:HAL_InitDelayUs	0	static

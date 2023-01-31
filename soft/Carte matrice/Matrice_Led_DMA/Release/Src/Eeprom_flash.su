@@ -1,0 +1,8 @@
+Eeprom_flash.c:14:6:FLASH_PageErase_	0	static
+Eeprom_flash.c:29:6:enableEEPROMWriting	8	static
+Eeprom_flash.c:35:6:disableEEPROMWriting	8	static
+Eeprom_flash.c:43:19:writeEEPROMHalfWord	8	static
+Eeprom_flash.c:52:19:writeEEPROMWord	8	static
+Eeprom_flash.c:64:10:readEEPROMHalfWord	0	static
+Eeprom_flash.c:72:10:readEEPROMWord	0	static
+Eeprom_flash.c:104:6:EcrLecEEprom	24	static

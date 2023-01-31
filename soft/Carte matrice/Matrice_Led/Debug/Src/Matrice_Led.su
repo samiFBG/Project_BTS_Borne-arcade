@@ -1,0 +1,10 @@
+Matrice_Led.c:60:6:LecConfigEEP	8	static
+Matrice_Led.c:101:6:EcrConfigEEPDebug	8	static
+Matrice_Led.c:283:6:InitEcrMem	40	static
+Matrice_Led.c:338:6:InitLecMem	32	static
+Matrice_Led.c:196:6:ImageEEp2RAM	32	static
+Matrice_Led.c:138:6:AppImageFond	48	static
+Matrice_Led.c:393:6:GesCliBandeau	16	static
+Matrice_Led.c:545:9:GeneNbAlea	16	static
+Matrice_Led.c:473:6:GesBandeauInit	24	static
+Matrice_Led.c:595:6:GesBandeauJeu	24	static

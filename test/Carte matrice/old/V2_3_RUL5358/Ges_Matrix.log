@@ -1,0 +1,40 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F458 -GC -DL -O11111111 -fo40 -N"H:\1 TRAVAIL\Lycee_ed\5_PROJETS\31_arcade\soft\MicroControleur\Ges_Matrix\V2_3_RUL5358\Ges_Matrix.mcppi" -EH"H:\1 TRAVAIL\Lycee_ed\5_PROJETS\31_arcade\soft\MicroControleur\Ges_Matrix\V2_3_RUL5358\Ges_Matrix.ihex" -SP"C:\Program Files (x86)\mikroC PRO for PIC\Defs\" -SP"C:\Program Files (x86)\mikroC PRO for PIC\uses\P18\" -SP"H:\1 TRAVAIL\Lycee_ed\5_PROJETS\31_arcade\soft\MicroControleur\Ges_Matrix\V2_3_RUL5358\" -SP"H:\1 TRAVAIL\Lycee_ed\5_PROJETS\31_arcade\soft\MicroControleur\Ges_Matrix\V2_3\" -SP"H:\1 TRAVAIL\Lycee_ed\5_PROJETS\31_arcade\soft\MicroControleur\Ges_Matrix\V2_2\" -SP"H:\1 TRAVAIL\Lycee_ed\5_PROJETS\31_arcade\soft\MicroControleur\Ges_Matrix\V2_1\" -IP"H:\1 TRAVAIL\Lycee_ed\5_PROJETS\31_arcade\soft\MicroControleur\Ges_Matrix\V2_1\" -IP"H:\1 TRAVAIL\Lycee_ed\5_PROJETS\31_arcade\soft\MicroControleur\Ges_Matrix\V2_2\" -IP"H:\1 TRAVAIL\Lycee_ed\5_PROJETS\31_arcade\soft\MicroControleur\Ges_Matrix\V2_3\" -IP"H:\1 TRAVAIL\Lycee_ed\5_PROJETS\31_arcade\soft\MicroControleur\Ges_Matrix\V2_3_RUL5358\" "GesMatrix.c" "Tache_emi_rec_I2C.c" "Appli_hdl_it.c" "Tache_ges_time_out.c" "Tache_com_can.c" "Tache_IT_Mtrx.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_MemManager.mcl" "__Lib_Conversions.mcl" "__Lib_Sprintf.mcl" "__Lib_PrintOut.mcl" "__Lib_Sprinti.mcl" "__Lib_Sprintl.mcl" "__Lib_Time.mcl" "__Lib_Trigonometry.mcl" "__Lib_Button.mcl" "__Lib_Keypad4x4.mcl" "__Lib_Manchester.mcl" "__Lib_OneWire.mcl" "__Lib_PS2.mcl" "__Lib_Sound.mcl" "__Lib_SoftI2C.mcl" "__Lib_SoftSPI.mcl" "__Lib_SoftUART.mcl" "__Lib_ADC_A_C.mcl" "__Lib_EEPROM_256.mcl" "__Lib_FLASH_w8_e64.mcl" "__Lib_I2C_c34.mcl" "__Lib_PWM_c2d4.mcl" "__Lib_SPI_c345.mcl" "__Lib_UART_c67.mcl" "__Lib_CAN_C_A.mcl" "__Lib_PortExpander.mcl" "__Lib_CANSPI.mcl" "__Lib_CF.mcl" "__Lib_CFFat16.mcl" "__Lib_GlcdFonts.mcl" "__Lib_Glcd.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl" "__Lib_Mmc.mcl" "__Lib_MmcFat16.mcl" "__Lib_MmcFat16Constants.mcl" "__Lib_RS485.mcl" "__Lib_S1D13700.mcl" "__Lib_T6963C.mcl" "__Lib_SPIGlcd.mcl" "__Lib_SPILcd.mcl" "__Lib_SPILcd8.mcl" "__Lib_SPIT6963C.mcl" "__Lib_EthEnc28j60.mcl" "__Lib_TFT.mcl" "__Lib_TFT_Defs.mcl" "__Lib_TFT_16bit.mcl" "__Lib_TFT_16bit_Defs.mcl" "__Lib_TouchPanel_TFT.mcl" "__Lib_EthEnc24j600.mcl" "__Lib_TouchPanel.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	gesmatrix.h
+hint: 138	1163	Variable 'i' has been declared, but not used	GesMatrix.c
+hint: 138	1163	Variable 'k' has been declared, but not used	GesMatrix.c
+hint: 140	1163	Variable 'Res' has been declared, but not used	GesMatrix.c
+hint: 140	1163	Variable 'j' has been declared, but not used	GesMatrix.c
+hint: 594	1163	Variable 'i' has been declared, but not used	GesMatrix.c
+diagnostics: 837	123	Compiled Successfully	GesMatrix.c
+hint: 139	1164	Variable 'Cpt' has been eliminated by optimizer	GesMatrix.c
+hint: 328	1164	Variable 'TypeVoletA' has been eliminated by optimizer	GesMatrix.c
+hint: 407	1164	Variable 'TypeVoletA' has been eliminated by optimizer	GesMatrix.c
+hint: 440	1164	Variable 'NbAlea' has been eliminated by optimizer	GesMatrix.c
+hint: 596	1164	Variable 'Res' has been eliminated by optimizer	GesMatrix.c
+diagnostics: 0	122	Compilation Started	tache_emi_rec_i2c.h
+hint: 275	1163	Variable 'EcrAdrI2C' has been declared, but not used	Tache_emi_rec_I2C.c
+diagnostics: 479	123	Compiled Successfully	Tache_emi_rec_I2C.c
+hint: 452	1164	Variable 'Res' has been eliminated by optimizer	Tache_emi_rec_I2C.c
+diagnostics: 0	122	Compilation Started	tache_emi_rec_i2c.h
+diagnostics: 104	123	Compiled Successfully	Appli_hdl_it.c
+diagnostics: 0	122	Compilation Started	tache_ges_time_out.h
+diagnostics: 277	123	Compiled Successfully	Tache_ges_time_out.c
+diagnostics: 0	122	Compilation Started	gesmatrix.h
+hint: 67	1163	Variable 'i' has been declared, but not used	Tache_com_can.c
+hint: 67	1163	Variable 'Param' has been declared, but not used	Tache_com_can.c
+hint: 427	1163	Variable 'id' has been declared, but not used	Tache_com_can.c
+diagnostics: 480	123	Compiled Successfully	Tache_com_can.c
+hint: 67	1164	Variable 'Res' has been eliminated by optimizer	Tache_com_can.c
+hint: 140	1164	Variable 'Res' has been eliminated by optimizer	Tache_com_can.c
+hint: 426	1164	Variable 'Config_can2' has been eliminated by optimizer	Tache_com_can.c
+diagnostics: 0	122	Compilation Started	gesmatrix.h
+diagnostics: 138	123	Compiled Successfully	Tache_IT_Mtrx.c
+diagnostics: 0	127	All files Compiled in 265 ms	 
+hint: 0	1144	Used RAM (bytes): 690 (46%)  Free RAM (bytes): 825 (54%)	Used RAM (bytes): 690 (46%)  Free RAM (bytes): 825 (54%)
+hint: 0	1144	Used ROM (bytes): 6999 (21%)  Free ROM (bytes): 25769 (79%)	Used ROM (bytes): 6999 (21%)  Free ROM (bytes): 25769 (79%)
+diagnostics: 0	125	Project Linked Successfully	Ges_Matrix.mcppi
+hint: 0	1004	COFF file successfully generated	COFF file successfully generated
+diagnostics: 0	128	Linked in 2652 ms	 
+diagnostics: 0	129	Project 'Ges_Matrix.mcppi' completed: 2995 ms	 
+diagnostics: 0	103	Finished successfully: 05 mars 2021, 15:24:26	Ges_Matrix.mcppi
