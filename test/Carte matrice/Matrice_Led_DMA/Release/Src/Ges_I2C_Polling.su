@@ -1,3 +1,0 @@
-Ges_I2C_Polling.c:29:9:EcrI2CPoll	24	static
-Ges_I2C_Polling.c:61:9:EcrAdrIntPoll	24	static
-Ges_I2C_Polling.c:97:6:LecI2CPoll	16	static

@@ -1,7 +1,0 @@
-Tache_rec_emi_CAN.c:169:6:GesRecImage	16	static
-Tache_rec_emi_CAN.c:319:6:GesCmdImage	16	static
-Tache_rec_emi_CAN.c:389:6:GesMajEEprom	8	static
-Tache_rec_emi_CAN.c:110:6:TrtRecCAN	16	static
-Tache_rec_emi_CAN.c:76:6:HAL_CAN_RxFifo0MsgPendingCallback	48	static
-Tache_rec_emi_CAN.c:86:6:HAL_CAN_RxFifo1MsgPendingCallback	48	static
-Tache_rec_emi_CAN.c:470:6:InitBusCAN	32	static
